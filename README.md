@@ -1,1 +1,3 @@
 # Corise-airbnb-week1
+
+### Just a tiny project to explore the power and versatility of Numpy...
